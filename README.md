@@ -5,9 +5,6 @@
 
 remotedesktop.teleoperator.net
 
-Install
-+ [x2go](x2go.md)
-+ [X2Go Packages for Raspbian GNU/Linux](x2go-rpi-raspbian.md)
 
 
 ## client
@@ -15,6 +12,11 @@ Install
 + vnc
 + tigervnc
 
+
+
+### x2go Install
++ [x2go](x2go.md)
++ [X2Go Packages for Raspbian GNU/Linux](x2go-rpi-raspbian.md)
 
 
 
