@@ -5,13 +5,16 @@
 
 remotedesktop.teleoperator.net
 
-+ [X2Go Packages for Raspbian GNU/Linux]()
+Install
++ [x2go](x2go.md)
++ [X2Go Packages for Raspbian GNU/Linux](x2go-rpi-raspbian.md)
+
 
 ## client
-+ [x2go](x2go.md)
++ x2go
 + vnc
 + tigervnc
-+ 
+
 
 
 
@@ -19,8 +22,17 @@ remotedesktop.teleoperator.net
 
 
 
-## p2p + cloud
 
+## p2p + cloud
 + anydesk
 + teamviewer
 + nomachine
+
+
+### anydesk
++ https://anydesk.com/en/downloads/raspberry-pi
+
+### teamviewer
+
+
+### nomachine
