@@ -5,8 +5,10 @@
 
 remotedesktop.teleoperator.net
 
++ [X2Go Packages for Raspbian GNU/Linux]()
+
 ## client
-+ x2go
++ [x2go](x2go.md)
 + vnc
 + tigervnc
 + 
